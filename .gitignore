@@ -1,0 +1,31 @@
+# =============== Unity Generated Folders ================
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools/
+
+# =============== Unity Generated Files ================
+/*.csproj
+/*.unityproj
+/*.sln
+
+# Visual Studio / Rider / IDE-specific files
+.vs/
+*.userprefs
+
+# Mac/Linux generated files
+.DS_Store
+
+# =============== Backups and Meta Files ===============
+# Unity's default policy is to ignore .meta files in ignored folders
+# If you use Text serialization, you might also want to ignore these:
+# *.unitypackage
+
+# Lightmapping data
+/Assets/Scenes/*/LightmapData/
+
+# =============== External Tools (If Applicable) ===============
+# Example: VS Code settings
+.vscode/
